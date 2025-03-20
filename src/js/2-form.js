@@ -24,3 +24,4 @@ form.addEventListener("submit", (event) => {
   formData = { email: "", message: "" };
   form.reset();
 });
+
